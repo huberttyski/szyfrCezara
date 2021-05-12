@@ -1,0 +1,12 @@
+﻿  UnitTests.cpp
+E:\Studia\VS source\repos\SzyfrCezara\SzyfrCezara\szyfrCezara.cpp(24,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia\VS source\repos\SzyfrCezara\UnitTests\UnitTests.cpp(15,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\SzyfrCezara\UnitTests\UnitTests.cpp(21,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+E:\Studia\VS source\repos\SzyfrCezara\UnitTests\UnitTests.cpp(26,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\SzyfrCezara\UnitTests\UnitTests.cpp(32,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+E:\Studia\VS source\repos\SzyfrCezara\UnitTests\UnitTests.cpp(37,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\SzyfrCezara\UnitTests\UnitTests.cpp(43,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+E:\Studia\VS source\repos\SzyfrCezara\UnitTests\UnitTests.cpp(48,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\SzyfrCezara\UnitTests\UnitTests.cpp(54,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+     Trwa tworzenie biblioteki E:\Studia\VS source\repos\SzyfrCezara\Debug\UnitTests.lib i obiektu E:\Studia\VS source\repos\SzyfrCezara\Debug\UnitTests.exp
+  UnitTests.vcxproj -> E:\Studia\VS source\repos\SzyfrCezara\Debug\UnitTests.dll
